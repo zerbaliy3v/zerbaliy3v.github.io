@@ -1,0 +1,10 @@
+<footer class="footer-min">
+  <div class="text-muted">
+    {% if site.author %}
+      {{ site.author }}
+    {% endif %}
+    {% if site.url-pretty %}
+      <a href="{{ '/' | absolute_url }}">{{ site.url-pretty }}</a>
+    {% endif %}
+  </div>
+</footer>
