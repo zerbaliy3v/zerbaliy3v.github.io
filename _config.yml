@@ -20,6 +20,7 @@ author: zerbaliy3v
 ###############################################
 
 navbar-links:
+  Home: 'https://zerbaliy3v.github.io/'
   Programming: ''
   Resources:
     - OSCP NOTEs: "https://gabb4r.gitbook.io/oscp-notes/"
