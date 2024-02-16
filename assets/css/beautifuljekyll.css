@@ -217,8 +217,8 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom {
-    padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
   }
 
   .navbar-custom .navbar-brand-logo {
@@ -431,7 +431,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   footer {
-    padding: 2.125rem 0;
+    padding: 1.125rem 0;
     text-align: center;
   }
   footer .footer-links {
