@@ -432,7 +432,7 @@ footer .footer-custom-content {
 @media (min-width: 768px) {
   footer {
     padding: 2.125rem 0;
-    text-aling: center
+    text-align: center;
   }
   footer .footer-links {
     font-size: 1.125rem;
