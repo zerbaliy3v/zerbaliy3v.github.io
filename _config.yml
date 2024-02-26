@@ -20,11 +20,9 @@ author: zerbaliy3v
 ###############################################
 
 navbar-links:
+  Bug Bounty: 'bug-bounty.md' 
   Research: 'research.md'
   Development: 'development'
-  Resources:
-    - OSCP NOTEs: "https://gabb4r.gitbook.io/oscp-notes/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   About Me: "aboutme"
 
 ################
@@ -99,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "zerbaliy3v.com"
+#url-pretty: "zerbaliy3v.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
