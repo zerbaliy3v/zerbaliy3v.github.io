@@ -20,8 +20,8 @@ author: zerbaliy3v
 ###############################################
 
 navbar-links:
-  Home: 'https://zerbaliy3v.github.io/'
-  Programming: ''
+  Research: 'research.md'
+  Development: 'development'
   Resources:
     - OSCP NOTEs: "https://gabb4r.gitbook.io/oscp-notes/"
     - Learn markdown: "https://www.markdowntutorial.com/"
