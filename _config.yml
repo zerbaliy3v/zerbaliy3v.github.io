@@ -21,8 +21,8 @@ author: zerbaliy3v
 
 navbar-links:
 
-  Bug Bounty: 'bug-bounty.md' 
-  Research: 'research.md'
+  Bug Bounty: 'bug-bounty' 
+  Research: 'research'
   Development: 'development'
   About Me: "aboutme"
 
