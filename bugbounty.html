@@ -3,6 +3,7 @@ layout: page
 title: Bug Bounty
 subtitle: My Bug Bounty Reports.
 ---
+{{ content }}
 
 <!--! start -->
 
@@ -10,7 +11,7 @@ subtitle: My Bug Bounty Reports.
 
   {% for post in posts %}
    
-  {%- if post.tags[0] == 'bug' or post.tags[0] =='bugbounty' %}
+  {%- if post.tags[0] == 'bug' or  post.tags[0] =='bugbounty' %}
 
   <li class="post-preview">
     <article>
@@ -93,3 +94,4 @@ subtitle: My Bug Bounty Reports.
   </li>
   {% endif %}
 </ul>
+{% endif %}
