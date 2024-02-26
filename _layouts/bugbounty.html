@@ -9,7 +9,7 @@ layout: page
 
   {% for post in posts %}
    
-  {%- if post.tags[0] == 'bug' or  post.tags[0] =='bugbounty' %}
+  {% if post.tags[0] == 'bug' or  post.tags[0] =='bugbounty' %}
 
   <li class="post-preview">
     <article>
@@ -64,7 +64,7 @@ layout: page
       </div>
       {% endif %}
       {% endunless %}
-
+      
     </article>
   </li>
   {%- endif -%}
