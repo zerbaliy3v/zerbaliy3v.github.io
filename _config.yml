@@ -14,6 +14,7 @@ plainwhite:
   tagline: Penetration Tester
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
+  search: true
 
   # generate social links in footer
   social_links:
@@ -47,6 +48,7 @@ plainwhite:
 #about.md
 
 # Build settings
+remote_theme: samarsault/plainwhite-jekyll
 theme: plainwhite
 
 plugins:
