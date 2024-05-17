@@ -15,7 +15,8 @@ plainwhite:
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true
-
+  dark_mode: true
+  
   # generate social links in footer
   social_links:
     twitter: zerbaliy3v
